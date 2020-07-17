@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Linke Tabs schließen",
+    "message": "Rechts Tabs schließen",
     "description": "Name of the extension."
   },
 
@@ -10,7 +10,7 @@
   },
 
   "contextItemTitle": {
-      "message": "Linke Tabs schließen",
+      "message": "Rechts Tabs schließen",
       "description": "Title of the context menu item."
   }
 }
