@@ -1,12 +1,12 @@
 {
   "applications": {
     "gecko": {
-      "strict_min_version": "53.0"
+      "strict_min_version": "78.0"
     }
   },
 
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/mkopec/close-tabs-to-the-left",
+  "homepage_url": "https://github.com/kodrclub/close-tabs-to-the-right",
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
   "version": "1.4.1",
