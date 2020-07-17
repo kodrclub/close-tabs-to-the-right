@@ -14,6 +14,8 @@ const menuItemParams = {
 browser.contextMenus.create(menuItemParams, onCreated);
 
 function closeTabs(sender, tabs) {
+    tabs.reverse()
+    
     for (var tab of tabs) {
         if (tab.id == sender.id) {
             break;
